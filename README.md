@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26485631/README.md)
+[LIVE LINK]([https://aviation-chat.vercel.app/])
 # ✈ Aviation Crisis Intelligence Dashboard
 
 An interactive full-stack data visualization dashboard tracking the financial and operational impact of global conflicts and oil price shocks on the aviation industry from 2019 to 2026. Features an AI-powered chat interface that filters every chart simultaneously using natural language.
