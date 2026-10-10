@@ -1,9 +1,15 @@
-[LIVE LINK] [https://aviation-chat.vercel.app/]
 # ✈ Aviation Crisis Intelligence Dashboard
 
-An interactive full-stack data visualization dashboard tracking the financial and operational impact of global conflicts and oil price shocks on the aviation industry from 2019 to 2026. Features an AI-powered chat interface that filters every chart simultaneously using natural language.
+<p>
+  <a href="https://aviation-chat.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-aviation--chat.vercel.app-e8a020?style=for-the-badge" alt="Live demo"></a>
+  <img src="https://img.shields.io/badge/D3.js-v7-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js">
+  <img src="https://img.shields.io/badge/LLM-Groq_·_Llama_3.3_70B-2A2230?style=for-the-badge" alt="Groq">
+  <img src="https://img.shields.io/badge/Records-28%2C000%2B-3b9de8?style=for-the-badge" alt="28,000+ records">
+</p>
 
-![Status](https://img.shields.io/badge/Status-Live-52c97d?style=flat-square) ![Stack](https://img.shields.io/badge/Built%20with-D3.js%20%7C%20Groq%20%7C%20Vercel-3b9de8?style=flat-square) ![Data](https://img.shields.io/badge/Records-28%2C000%2B-e8a020?style=flat-square)
+<a href="https://aviation-chat.vercel.app/"><img src="docs/screenshot.png" alt="Aviation Crisis Intelligence dashboard" width="100%"></a>
+
+An interactive full-stack data-visualization dashboard tracking the financial and operational impact of global conflicts and oil-price shocks on aviation from 2019 to 2026. An AI chat interface filters every chart at once from a plain-English request.
 
 ---
 
@@ -216,3 +222,7 @@ NYU Stern Volatility and Risk Institute (VRI) · Society for Financial Econometr
 ## License
 
 MIT — free to use, modify, and distribute.
+
+---
+
+<sub>Built by <b>Mehul Gupta</b> · <a href="https://mgupta646.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/mehulmg/">LinkedIn</a></sub>
